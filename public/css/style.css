@@ -23,13 +23,18 @@ body{
     color: #fbffff;
     font-size: large;
 }
+.underline {
+            padding-bottom: 4px;
+            border-bottom-style: solid;
+            border-bottom-color: #fac41c;
+}
 #search {
     position: relative;
     top: 20px;
 }
 #triangle {
     padding-left: 5px;
-    padding-bottom: 4px;
+    padding-bottom: 3px;
 }
 .main{
     padding: 20px 75px;
