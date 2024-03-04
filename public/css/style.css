@@ -6,7 +6,7 @@ body{
     font-style: normal;
 }
 .nav{
-    padding: 5px 60px;
+    padding: 5px 75px;
 
 }
 .logo{
@@ -32,7 +32,7 @@ body{
     padding-bottom: 4px;
 }
 .main{
-    padding: 20px 60px;
+    padding: 20px 75px;
 }
 .main-text {
     float: left;
@@ -43,7 +43,7 @@ body{
 }
 .main-image {
     display: inline-block;
-    padding-left: 70px;
+    padding-left: 75px;
 }
 #subscribe {
     font-size: 50px;
